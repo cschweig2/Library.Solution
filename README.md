@@ -1,6 +1,8 @@
 # Library Catalog
 
-#### Practice Project, Last Updated 01.11.2021
+#### Practice Project
+
+#### Project Started 01.11.2021 | Last Updated 01.13.2021
 
 #### **By Chelsea Becker and Danielle Thompson**
 
